@@ -1,5 +1,7 @@
 # FIFA World Cup 2026 — Goals Dashboard
 
+![Dashboard Preview](assets/preview.png)
+
 🌐 **Live Dashboard:** [View here](https://wc-xg-dashboard-2iqwjvzyxu7b9pyqzgj6of.streamlit.app)
 
 I built this during the World Cup because I wanted to actually see the data behind what was happening in the tournament, not just check scores. Started as a quick weekend project, ended up being a full dashboard with live API data, interactive charts, and real group standings.
